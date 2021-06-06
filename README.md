@@ -8,7 +8,7 @@
 
 - 📝 I regularly write codes on --------->[Visual Studio Code](Visual Studio Code)
 
-- 💬 Ask me about -------> **HTML CSS SASS C C++ PHP JAVASCRIPT**
+- 💬 Ask me about -------> **HTML CSS SASS C C++ PHP **
 
 - 📫 How to reach me ---> **meetahaldar1001@gmail.com**
 
