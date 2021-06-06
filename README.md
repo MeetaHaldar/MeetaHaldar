@@ -12,7 +12,7 @@
 
 - 📫 How to reach me ---> **meetahaldar1001@gmail.com**
 
-- 📄 Know about my experiences [I am just a college student right now.](I am just a college student right now.)
+- 📄 Know about my experiences [I am just a college student right now.]
 
 - ⚡ Fun fact **I am not talkative but Also i am a girl.**
 
