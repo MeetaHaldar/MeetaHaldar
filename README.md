@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋,It's Me Meeta Haldar</h1>
-<h3 align="center">A web developer from India. wanna know about me more.. Go down and check it easily</h3>
+<h3 align="center">my current website <a>meeta.dns.army</a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetahaldar&label=Profile%20views&color=0e75b6&style=flat" alt="meetahaldar" /> </p>
 
