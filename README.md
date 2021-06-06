@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I am not talkative but Also i am a girl.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="right">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/meeta_haldar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="meeta_haldar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/meeta haldar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="meeta haldar" height="30" width="40" /></a>
