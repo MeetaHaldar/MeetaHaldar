@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetahaldar&label=Profile%20views&color=0e75b6&style=flat" alt="meetahaldar" /> </p>
 
 
-
+<h4>
 
 - 🔭 I’m currently working on --->**Maths project**
 
@@ -29,6 +29,7 @@
 - 📄 Know about my experiences [I am just a college student right now.]
 
 - ⚡ Fun fact **I am not talkative but Also i am a girl.**
+   </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
