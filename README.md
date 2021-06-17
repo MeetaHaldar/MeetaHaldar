@@ -1,8 +1,20 @@
+<span> <h1>
+   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="170" height="170" border-radius="50%" />
+<img src="https://octodex.github.com/images/momtocat.png" width="170" height="170" border-radius="50%" />
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="170" height="170" border-radius="50%" />
+  <img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" width="170" height="170" border-radius="50%" />
+ <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="170" height="170" border-radius="50%" />
+  
+  </h1>
+</span>
 
-<h1 align="center">Hi👋,It's Me Meeta Haldar</h1>
-<h3 align="center">go down and check it, ;) </h3>
+<h1 align="center">Hi,It's Me Meeta Haldar</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetahaldar&label=Profile%20views&color=0e75b6&style=flat" alt="meetahaldar" /> </p>
+
+
+
 
 - 🔭 I’m currently working on --->**Maths project**
 
