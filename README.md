@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [I am just a college student right now.]
 
-- ⚡ Fun fact **I am not talkative but Also i am a girl.**
+- ⚡ Fun fact **I don't enjoy talking dirty as much guys do.**
    </h4>
 <h3 align="left">Connect with me: </h3>
 <p align="left">
