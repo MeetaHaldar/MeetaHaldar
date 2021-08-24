@@ -18,10 +18,7 @@
 
 <h4>
 
-   
-   
-   
-- 🔭 I’m currently working on --->**Maths project**
+   - 🔭 I’m currently working on --->**Maths project**
 
    
    
