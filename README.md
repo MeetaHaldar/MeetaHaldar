@@ -19,7 +19,7 @@
 
 <h4>
 
-   - 🔭 I’m currently working on --->**Maths project**
+   - 🔭 I’m currently working on --->**Javascript**  <image src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif" width="30" height="30" align="center" />
 
    
    
