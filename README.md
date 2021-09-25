@@ -1,4 +1,4 @@
-<span><h1>
+<!-- <span><h1>
    <img src="https://octodex.github.com/images/daftpunktocat-guy.gif"    width="150" height="150" />
    <img src="https://octodex.github.com/images/momtocat.png" width="150"    height="150"  />
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="150" height="150"  />
@@ -7,53 +7,59 @@
   
   </h1>
 </span>
+ -->
 
 
-
-<h1 align="center">Hi , It's Me Meeta Haldar</h1>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetahaldar&label=Profile%20views&color=0e75b6&style=flat" alt="meetahaldar" /> </p>
-
-
-<h4>
-
-   - 🔭 I’m currently working on --->**Javascript**  <image src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif" width="30" height="30" align="center" />
-
+<h1  align="center">Hello, I am Meeta Haldar 💙</h1>
+<p align="center"><img src= />
+</p>
+   <h2> About Me ✨ ~ </h2>
+<p>
+   👩‍🎓 I’m an IT student of B.Tech from GGSIPU University, Delhi.
+   </p>
+  
+  
+   <p>🙌 I am currently working on something imporetant.</p>
    
-   
-   
-- 📝 I regularly write codes on -------->[Visual Studio Code](Visual Studio Code)
+<p>😊 I love learning new technologies and exploring thoughts. Recently enjoying problem solving as well.
+   </p>
 
-- 💬 Ask me about -------> **HTML CSS SASS C C++ PHP **
+ <p>
+🌱  currently learning JS and JQyery.
+   </p>
 
-- 📫 How to reach me ---> **meetahaldar1001@gmail.com**
 
-- 💁‍♀️ My current website -->💕http://meeta.dns.army 
+<p>
+   🤩 check my Portfolio <a href="https://meeta.dns.army/" target="_blank"> Meeta Haldar </a>.
+</p>
+<h2 align="left"> How to reach me 🍀: </h2>
 
-- 📄 Know about my experiences [I am just a college student right now.]
-
-- ⚡ Fun fact **I don't enjoy talking dirty as much guys do.**
-   </h4>
-<h3 align="left">Connect with me: </h3>
 <p align="left">
-<a href="https://instagram.com/meeta_haldar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="meeta_haldar" height="30" width="40" /></a>
-   
-<a href="https://auth.geeksforgeeks.org/user/meeta haldar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="meeta haldar" height="30" width="40"/></a>
+   <a href="https://twitter.com/Meeta_boss">
+     <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/>
+      
+</a>
+   <a href="mailto:meetahaldar1001@gmail.com">
+     <img src="https://img.icons8.com/fluency/64/000000/apple-mail.png"/>
+   </a>
+
+   <a href="https://codeforces.com/profile/Meeta_haldar"><img src="https://img.icons8.com/color/48/000000/bar-chart--v1.png"/></a>
 </p>
 
-<h3 align="left">Languages and Tools: </h3>
+<h2 align="left">Languages and Tools: </h2>
 
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="cplusplus"  width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
+<h2>Most Used Language 🔮 : </h2>
 
 
 
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=meetahaldar&show_icons=true&locale=en&layout=compact" alt="meetahaldar" /></p>
+   
+<h2> My Work ⌛:</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=meetahaldar&show_icons=true&locale=en" alt="meetahaldar" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetahaldar&show_icons=true&locale=en&layout=compact" alt="meetahaldar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetahaldar&show_icons=true&locale=en" alt="meetahaldar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetahaldar&" alt="meetahaldar" /></p>
+ <h2>  My contribution and Streak 🔥 : </h2>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=meetahaldar&" alt="meetahaldar" /></p>
+ 
