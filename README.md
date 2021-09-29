@@ -19,13 +19,13 @@
    </p>
   
   
-   <p>🙌 I am currently working on something imporetant.</p>
+   <p>🙌 I am currently working on JQuery 📃.</p>
    
 <p>😊 I love learning new technologies and exploring thoughts. Recently enjoying problem solving as well.
    </p>
 
  <p>
-🌱  currently learning JS and JQyery.
+🌱  currently learning Web development 💖.
    </p>
 
 
