@@ -21,7 +21,7 @@
   
    <p>🙌 I am currently working on Node.js 📃.</p>
    
-<p>😊 I love learning new technologies and exploring thoughts. Recently enjoying problem solving as well.
+<p>😊 I love learning new technologies and exploring thoughts. Recently enjoying problem solving as well .
    </p>
 
  <p>
