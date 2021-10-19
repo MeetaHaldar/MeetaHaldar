@@ -81,3 +81,12 @@
 
 
  <img alt="MeetaHaldar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeetaHaldar&bg_color=FFFFFF&color=c6272f&line=FFA486&point=FF0075&hide_border=true" />
+ 
+ 
+ <p align="center">
+   
+   ![djg1gu](https://user-images.githubusercontent.com/69325431/137965392-49182a54-c6ce-45f7-83ef-c51949a65a9e.gif)
+
+   
+   
+</p>
