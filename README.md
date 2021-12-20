@@ -98,7 +98,7 @@
 
  <details open>
 
-<summary>Meme</summary>
+<summary>Meme is 💛</summary>
 
 <!--   
 <p style="float: left">
