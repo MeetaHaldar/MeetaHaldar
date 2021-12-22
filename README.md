@@ -35,18 +35,15 @@
 <h2 align="left"> How to reach me 🍀: </h2>
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/meeta-haldar-601b41203/?locale=en_US" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Meeta-s-linkedin" height="50" width="50" />
+   <a href="https://www.linkedin.com/in/meeta-haldar-601b41203/?locale=en_US" target="blank">Linkdelin
    </a>
-   
-   <a href="https://twitter.com/Meeta_boss">
-     <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/>    
+  <a href="https://twitter.com/Meeta_boss">
+ Twitter 
 </a>
-   
-   <a href="mailto:meetahaldar1001@gmail.com">
-     <img src="https://img.icons8.com/fluency/64/000000/apple-mail.png"/>
+ <a href="mailto:meetahaldar1001@gmail.com">
+    Email-Id
    </a>
-
-   <a href="https://codeforces.com/profile/Meeta_haldar"><img src="https://img.icons8.com/color/48/000000/bar-chart--v1.png"/></a>
+   <a href="https://codeforces.com/profile/Meeta_haldar">Codeforces</a>
 </p>
 
 <h2 align="left">Languages and Tools: </h2>
