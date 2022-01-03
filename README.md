@@ -10,9 +10,16 @@
  -->
 
 
+
 <h1  align="center">Hello, I am Meeta Haldar 💙</h1>
-<p align="center"><img src="https://user-images.githubusercontent.com/18125109/31239479-d554f29c-a9c2-11e7-8138-71483d537ca9.gif"  width="1000" height="350"/>
-</p>
+<!-- <p align="center"><img src="https://user-images.githubusercontent.com/18125109/31239479-d554f29c-a9c2-11e7-8138-71483d537ca9.gif"  width="1000" height="350"/>
+</p> -->
+
+
+![Snake animation](https://github.com/igorprati/igorprati/blob/output/github-contribution-grid-snake.svg)
+
+
+
    <h2> About Me ✨ ~  </h2>
 <p>
    👩‍🎓 I’m an IT student of B.Tech from GGSIPU University, Delhi.
