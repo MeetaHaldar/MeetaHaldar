@@ -42,7 +42,7 @@
 <h2 align="left"> How to reach me 🍀: </h2>
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/meeta-haldar-601b41203/?locale=en_US" target="blank">Linkedin
+   <a href="https://www.linkedin.com/in/meetahaldar/" target="blank">Linkedin
    </a>
   <a href="https://twitter.com/Meeta_boss">
  Twitter 
