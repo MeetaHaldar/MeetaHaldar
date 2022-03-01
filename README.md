@@ -1,20 +1,5 @@
-<!-- <span><h1>
-   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif"    width="150" height="150" />
-   <img src="https://octodex.github.com/images/momtocat.png" width="150"    height="150"  />
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="150" height="150"  />
-  <img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" width="150" height="150"/>
- <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="150"   height="150" />
-  
-  </h1>
-</span>
- -->
-
-
 
 <h1  align="center">Hello, I am Meeta Haldar 💙</h1>
-<!-- <p align="center"><img src="https://user-images.githubusercontent.com/18125109/31239479-d554f29c-a9c2-11e7-8138-71483d537ca9.gif"  width="1000" height="350"/>
-</p> -->
-
 
 ![Snake animation](https://github.com/igorprati/igorprati/blob/output/github-contribution-grid-snake.svg)
 
@@ -26,7 +11,7 @@
    </p>
   
   
-   <p>🙌 I am currently working on Node.js 📃.</p>
+   <p>🙌 I am currently working on Node.js & react 📃.</p>
    
 <p>😊 I love learning new technologies and exploring thoughts. Recently enjoying problem solving as well .
    </p>
@@ -65,64 +50,24 @@
    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> </p>
 
-<!-- <h2>Most Used Language 🔮 :  </h2>
 
 
-
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=meetahaldar&show_icons=true&locale=en&" alt="meetahaldar" />
-
-</p>
-    -->
-<h2> My Work ⌛:</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=meetahaldar&show_icons=true&locale=en" alt="meetahaldar" /></p>
-
- <h2>  My contribution and Streak 🔥 : </h2>
-
-<p>
-        <img alt="MeetaHaldar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MeetaHaldar"/>
-</p>
-
-
-
- <img alt="MeetaHaldar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeetaHaldar&bg_color=FFFFFF&color=c6272f&line=FFA486&point=FF0075&hide_border=true" />
+  <p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=meetahaldar&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=meetahaldar&theme=tokyonight&hide_border=true" />
+  <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetahaldar&theme=tokyonight&hide_border=true&layout=compact&count_private=true&hide=html,css,blade,shell" alt="top-langs" />
+   
+ <img  width="59.5%" alt="MeetaHaldar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeetaHaldar&bg_color=#2222&color=c6272f&line=FFA486&point=FF0075&hide_border=true&theme=tokyonigh" />
  
- 
- <p align="center">
-   
-   ![djg1gu](https://user-images.githubusercontent.com/69325431/137965392-49182a54-c6ce-45f7-83ef-c51949a65a9e.gif)
-
-   
-   
 </p>
-
-
-
-
-
 
  <details open>
 
 <summary>Meme is 💛</summary>
-
-<!--   
-<p style="float: left">
-
-  <img src="https://memeapi-thorved.herokuapp.com/meme/ProgrammerHumor" width="500"> 
-</p>
-   <p style="float: right">
-  <img src="https://memeapi-thorved.herokuapp.com/meme/" width="500"> 
+  <p align="left">
+     <img src="https://memeapi-thorved.herokuapp.com/meme/ProgrammerHumor"width="49.5%">  
+     <img src="https://memeapi-thorved.herokuapp.com/meme/" width="49.5%"> 
    </p>
-
-   </p> -->
-
-| Meme 1       |    Meme 2           
-| ------------- |:-------------:
-|  <img src="https://memeapi-thorved.herokuapp.com/meme/ProgrammerHumor" width="500">     |  <img src="https://memeapi-thorved.herokuapp.com/meme/" width="500"> 
-   
-   
-   
-   
-
 </details> 
 
 <h5> special thanks to <a href = "https://github.com/thorved" > VED </a> </h5>
