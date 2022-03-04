@@ -53,9 +53,9 @@
 
 
   <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=meetahaldar&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=meetahaldar&theme=tokyonight&hide_border=true" />
-  <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetahaldar&theme=tokyonight&hide_border=true&layout=compact&count_private=true&hide=html,css,blade,shell" alt="top-langs" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=meetaHaldar&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=meetaHaldar&theme=tokyonight&hide_border=true" />
+  <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetaHaldar&theme=tokyonight&hide_border=true&layout=compact&count_private=true&hide=html,css,blade,shell" alt="top-langs" />
    
  <img  width="59.5%" alt="MeetaHaldar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeetaHaldar&bg_color=#2222&color=c6272f&line=FFA486&point=FF0075&hide_border=true&theme=tokyonigh" />
  
