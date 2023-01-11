@@ -2,8 +2,7 @@
 <h1  align="center">Hello, I am Meeta Haldar 💙</h1>
 
 <!-- ![Snake animation](https://github.com/igorprati/igorprati/blob/output/github-contribution-grid-snake.svg) -->
-<img src="https://raw.githubusercontent.com/MeetaHaldar/MeetaHaldar/be0738efe7e1fb7fab117b2ea82acdcbc45c5b0c/github-contribution-grid-snake-dark.svg"   width="100%" /> 
-
+<img align="center" width="100%" src="https://raw.githubusercontent.com/MeetaHaldar/MeetaHaldar/output/github-contribution-grid-snake.svg" alt="snake" />
 
 
    <h2> About Me ✨ ~  </h2>
