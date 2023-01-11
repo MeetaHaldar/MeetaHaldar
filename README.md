@@ -17,7 +17,7 @@
    </p>
 
  <p>
-🌱  currently learning Web development 💖.
+🌱  currently learning DSA & problem solving 💖.
    </p>
 
 
@@ -51,23 +51,5 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> </p>
 
 
+   <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=meetaHaldar&theme=tokyonight&hide_border=true" />
 
-  <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=meetaHaldar&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=meetaHaldar&theme=tokyonight&hide_border=true" />
-  <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetaHaldar&theme=tokyonight&hide_border=true&layout=compact&count_private=true&hide=html,css,blade,shell" alt="top-langs" />
-   
- <img  width="59.5%" alt="MeetaHaldar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeetaHaldar&bg_color=#2222&color=c6272f&line=FFA486&point=FF0075&hide_border=true&theme=tokyonigh" />
- 
-</p>
-
- <details open>
-
-<summary>Meme is 💛</summary>
-  <p align="left">
-     <img src="https://memeapi-thorved.herokuapp.com/meme/ProgrammerHumor"width="49.5%">  
-     <img src="https://memeapi-thorved.herokuapp.com/meme/" width="49.5%"> 
-   </p>
-</details> 
-
-<h5> special thanks to <a href = "https://github.com/thorved" > VED </a> </h5>
