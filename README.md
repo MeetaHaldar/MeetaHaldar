@@ -11,7 +11,7 @@
    </p>
   
   
-   <p>🙌 I am currently working on Node.js & react 📃.</p>
+   <p>🙌 I am currently working on reactjs 📃.</p>
    
 <p>😊 I love learning new technologies and exploring thoughts. Recently enjoying problem solving as well .
    </p>
