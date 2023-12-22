@@ -7,19 +7,19 @@
 
    <h2> About Me ✨ ~  </h2>
 <p>
-   👩‍🎓 I’m an IT student of B.Tech from GGSIPU University, Delhi.
+   👩‍🎓 Recent graduate from NSUT West Campus with a CGPA of 8.9.
+
    </p>
   
   
-   <p>🙌 I am currently working on reactjs 📃.</p>
+   <p>🙌Proficient in HTML, CSS, JavaScript, Bootstrap, Node.js, jQuery, Express, C++, and Java.</p>
    
 <p>😊 I love learning new technologies and exploring thoughts. Recently enjoying problem solving as well .
    </p>
 
- <p>
-🌱  currently learning DSA & problem solving 💖.
-   </p>
-
+ <h2>🚀 Current Endeavors </h2>
+<p>Technical Content Engineer for Web Tech at GeeksforGeeks.</p>
+<p>Actively contributing to the dynamic landscape of web development.</p>
 
 <p>
    🤩 check my Portfolio <a href="https://meeta.dns.army/" target="_blank"> Meeta Haldar </a>.
