@@ -2,54 +2,55 @@
 <h1  align="center">Hello, I am Meeta Haldar 💙</h1>
 
 <!-- ![Snake animation](https://github.com/igorprati/igorprati/blob/output/github-contribution-grid-snake.svg) -->
-<img align="center" width="100%" src="https://raw.githubusercontent.com/MeetaHaldar/MeetaHaldar/output/github-contribution-grid-snake.svg" alt="snake" />
+<img align="center" width="100%" src="https://raw.githubusercontent.com/MeetaHaldar/MeetaHaldar/output/github-contribution-grid-snake.svg" alt="snake" /> 
 
+# 💫 About Me  
+👩‍🎓 **2023 graduate** from NSUT West Campus, holding a B.Tech degree with a CGPA of 8.9.  
 
-   <h2> About Me ✨ ~  </h2>
-<p>
-   👩‍🎓 Recent graduate from NSUT West Campus with a CGPA of 8.9.
+💻 **Member of Technical Staff (MTS)** at GeeksforGeeks, where I:
+- Streamlined the write portal functionality.  
+- Enhanced navigation with a dynamic side menu.  
+- Resolved critical bugs for improved platform stability.  
+- Developed secure RESTful APIs with JWT authentication, ensuring robust performance and data protection.  
 
-   </p>
-  
-  
-   <p>🙌Proficient in HTML, CSS, JavaScript, Bootstrap, Node.js, jQuery, Express, C++, and Java.</p>
-   
-<p>😊 I love learning new technologies and exploring thoughts. Recently enjoying problem solving as well .
-   </p>
+🙌 **Technical Proficiency**:  
+- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap  
+- Backend: Node.js, Express, RESTful APIs  
+- Databases: MongoDB, MySQL  
+- Programming Languages: C++, Java  
 
- <h2>🚀 Current Endeavors </h2>
-<p>Technical Content Engineer for Web Tech at GeeksforGeeks.</p>
-<p>Actively contributing to the dynamic landscape of web development.</p>
+😊 I am passionate about learning new technologies, optimizing user experiences, and contributing to impactful projects. Recently, I have been diving into problem-solving on platforms like LeetCode.  
 
-<p>
-   🤩 check my Portfolio <a href="https://meeta.dns.army/" target="_blank"> Meeta Haldar </a>.
-</p>
-<h2 align="left"> How to reach me 🍀: </h2>
+🎯 **Dedicated** to building innovative, efficient solutions and continuously enhancing my technical skills.  
 
-<p align="left">
-   <a href="https://www.linkedin.com/in/meetahaldar/" target="blank">Linkedin
-   </a>
-  <a href="https://twitter.com/Meeta_boss">
- Twitter 
-</a>
- <a href="mailto:meetahaldar1001@gmail.com">
-    Email-Id
-   </a>
-   <a href="https://codeforces.com/profile/Meeta_haldar">Codeforces</a>
-</p>
+## 🌐 Connect with Me  
+- [Portfolio Website](https://meeta.dns.army/)  
+- [LinkedIn](https://www.linkedin.com/in/meetahaldar/)  
+- [Twitter](https://twitter.com/Meeta_boss)  
+- [Codeforces](https://codeforces.com/profile/Meeta_haldar)  
 
-<h2 align="left">Languages and Tools: </h2>
+## 🛠️ Tools and Technologies  
+### Languages  
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)  
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=flat)  
+![C++](https://img.shields.io/badge/-C%2B%2B-blue?logo=c%2B%2B&logoColor=white&style=flat)  
+![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat)  
 
+### Frameworks and Libraries  
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat)  
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat)  
+![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white&style=flat)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?logo=tailwind-css&logoColor=white&style=flat)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=flat)  
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"> <a href="https://www.cprogramming.com/" target="_blank" padding="20px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="cplusplus"  width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> </p>
+### Tools  
+![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code&logoColor=white&style=flat)  
 
+## 📈 Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeetaHaldar&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeetaHaldar&layout=compact&theme=tokyonight)  
 
-   <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=meetaHaldar&theme=tokyonight&hide_border=true" />
-
+---  
+⭐ **Let’s Collaborate and Create!**  
