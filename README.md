@@ -1,5 +1,5 @@
 
-### Hello, It's Meeta Haldar ✨
+## Hello, It's Meeta Haldar ✨
 
 In school, I had no idea about coding. But when I enrolled in B.Tech IT, subjects like Programming, OS, DBMS, and DSA sparked my curiosity, and I was instantly hooked.
 
