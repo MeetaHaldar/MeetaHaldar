@@ -1,56 +1,23 @@
 
-<h1  align="center">Hello, I am Meeta Haldar 💙</h1>
-
-<!-- ![Snake animation](https://github.com/igorprati/igorprati/blob/output/github-contribution-grid-snake.svg) -->
+<h2  align="center">Howdy!! It's Meeta Haldar ✨</h2>
 <img align="center" width="100%" src="https://raw.githubusercontent.com/MeetaHaldar/MeetaHaldar/output/github-contribution-grid-snake.svg" alt="snake" /> 
 
-# 💫 About Me  
-👩‍🎓 **2023 graduate** from NSUT West Campus, holding a B.Tech degree with a CGPA of 8.9.  
+In school, I had no idea about coding or the world of programming. It was something I had never explored or even thought about.
 
-💻 **Member of Technical Staff (MTS)** at GeeksforGeeks, where I:
-- Streamlined the write portal functionality.  
-- Enhanced navigation with a dynamic side menu.  
-- Resolved critical bugs for improved platform stability.  
-- Developed secure RESTful APIs with JWT authentication, ensuring robust performance and data protection.  
+Everything changed when I enrolled in B.Tech IT. That’s where I was introduced to subjects like Programming, OS, DBMS, and DSA—and I was instantly hooked. The logic, the problem-solving, and the creativity behind building software fascinated me. I found myself deeply engaged, excited to learn more every day.
 
-🙌 **Technical Proficiency**:  
-- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap  
-- Backend: Node.js, Express, RESTful APIs  
-- Databases: MongoDB, MySQL  
-- Programming Languages: C++, Java  
+My first milestone came when I landed an internship as a Full Stack Developer during college. That experience gave me hands-on exposure to real-world projects and reinforced my passion for web development.
 
-😊 I am passionate about learning new technologies, optimizing user experiences, and contributing to impactful projects. Recently, I have been diving into problem-solving on platforms like LeetCode.  
+Beyond academics, I actively participated in hackathons, pushing my limits in coding challenges and innovation. While others focused on sports, I found my thrill in tech competitions.
 
-🎯 **Dedicated** to building innovative, efficient solutions and continuously enhancing my technical skills.  
+After graduation, I joined GeeksforGeeks as an MTS, where I tackled technical issues, optimized the write portal, and built secure RESTful APIs to enhance user experience. Working on a platform that helps millions of developers sharpen their skills was an incredibly fulfilling journey.
+
+Wanting to take things a step further, I launched my own startup, DOMTracker—a platform dedicated to web development services and daily technical updates. My goal is to help developers stay ahead in the ever-evolving tech landscape while delivering top-notch web solutions.
+
+From having no idea about coding to building products and solving real-world problems, this journey has been nothing short of exciting. And it’s only just beginning. 🚀
 
 ## 🌐 Connect with Me  
 - [Portfolio Website](https://meeta.dns.army/)  
 - [LinkedIn](https://www.linkedin.com/in/meetahaldar/)  
 - [Twitter](https://twitter.com/Meeta_boss)  
-- [Codeforces](https://codeforces.com/profile/Meeta_haldar)  
-
-## 🛠️ Tools and Technologies  
-### Languages  
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=flat)  
-![C++](https://img.shields.io/badge/-C%2B%2B-blue?logo=c%2B%2B&logoColor=white&style=flat)  
-![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat)  
-
-### Frameworks and Libraries  
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat)  
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat)  
-![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?logo=tailwind-css&logoColor=white&style=flat)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=flat)  
-
-### Tools  
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code&logoColor=white&style=flat)  
-
-## 📈 Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeetaHaldar&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeetaHaldar&layout=compact&theme=tokyonight)  
-
----  
-⭐ **Let’s Collaborate and Create!**  
+- [Leetcode](https://leetcode.com/MeetaHaldar/)
