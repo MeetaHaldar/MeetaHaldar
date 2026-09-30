@@ -9,7 +9,7 @@ After graduation, I joined GeeksforGeeks as an MTS, solving technical issues, op
 
 To take things further, I founded DOMTracker, a platform for web development services and daily tech updates. From knowing nothing about coding to building products, my journey has been incredible—and it’s just the beginning. 🚀
 
-- [Portfolio Website 🌐]([https://meeta.dns.army/](https://meetahaldar.netlify.app/)  
+- [Portfolio Website 🌐](https://meetahaldar.netlify.app/)  
 - [LinkedIn](https://www.linkedin.com/in/meetahaldar/)  
 - [Twitter](https://twitter.com/Meeta_boss)  
 - [Leetcode](https://leetcode.com/MeetaHaldar/)
